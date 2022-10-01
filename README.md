@@ -1,2 +1,3 @@
 # Segmentation and Compression Algorithm 
-Implement from scratch the Expectation–Maximization(EM) algorithm in order to perform image segmentation and compression.
+### Overview
+As part of the course "Machine Learning" we implemented from scratch the Expectation–Maximization(EM) algorithm in order to perform image segmentation and compression.
